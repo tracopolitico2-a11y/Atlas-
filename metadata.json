@@ -1,0 +1,6 @@
+{
+  "name": "ATLASΩ Trader Intelligence",
+  "description": "Terminal profissional simulado de cripto trading para PENDLE/USDT com gestão de risco, kill switch e controle patrimonial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
